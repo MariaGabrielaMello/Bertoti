@@ -64,7 +64,7 @@ Imagine que um jovem húngaro e um senhor sueco estejam trocando cartas entre si
 
 <img src="images/Imagem2.png">
 
-Na plataforma Teams, quando clicamos em copiar link em uma mensagem, na verdade é copiado o link da mensagem em si e não o link que foi enviado como conteúdo da mensagem.
+Na plataforma Teams, quando clicamos em copiar link em uma mensagem, na verdade é copiado o link da mensagem em si e não o link que foi enviado como conteúdo da mensagem induzindo o usuário ao erro ao pensar que está realizando uma ação quando na verdade está realizando outra.
 
 ## :x: Erro
 **Heurística nº 5: Prevenção a erros**
