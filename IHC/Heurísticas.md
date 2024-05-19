@@ -1,4 +1,4 @@
-# Heurísticas
+# Heurísticas de Nielsen
 
 ## :heavy_check_mark: Acerto
 **Heurística nº 1: Visibilidade do status do sistema**
