@@ -3,9 +3,9 @@
 ## :heavy_check_mark: Acerto
 **Heurística nº 1: Visibilidade do status do sistema**
 
-O sistema apresenta feedback ao usuário o mais rápido possível quando o Endereço de e-mail, ID de acesso ou Senha estão incorretos para efetuar o login.
+1.	O sistema deve sempre manter os usuários informados sobre o que está acontecendo, em tempo real, por meio de feedbacks instantâneos dentro de um prazo razoável, que servirão para orientar o usuário sobre o que está acontecendo na tela em que ele se encontra.
 
-<img src="images/.png">
+<img src="images/imagem.jpeg">
 
 
 ## :heavy_check_mark: Acerto
