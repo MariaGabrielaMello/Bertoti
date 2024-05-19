@@ -5,7 +5,7 @@
 
 1.	O sistema deve sempre manter os usuários informados sobre o que está acontecendo, em tempo real, por meio de feedbacks instantâneos dentro de um prazo razoável, que servirão para orientar o usuário sobre o que está acontecendo na tela em que ele se encontra.
 
-<img src="IHC/images/imagem1.jpeg">
+<img src="images/imagem1.jpeg">
 
 
 ## :heavy_check_mark: Acerto
