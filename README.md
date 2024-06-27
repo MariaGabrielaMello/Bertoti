@@ -1,5 +1,4 @@
-# Bertoti
-Repositório destinado à tarefa de Heurísticas e Chatbot da matéria Interação Humano Computador.
+Repositório destinado Chatbot de orientação e classificação de Covid e Dengue desenvolvido utilizando o Telegram e Google Colab e aos exemplos de Heurísticas de Nielsen para a matéria Interação Humano Computador.
 
 ## Este repositório contém duas branches:
 
